@@ -1,0 +1,12 @@
+<AppUpdater>
+  <update>
+    <latestVersion>1.01.200530</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
+    <url>https://github.com/Javimetal/ExoTvUpdates</url>
+    <releaseNotes>
+- First evolution
+- Second evolution
+- Bug fixes
+    </releaseNotes>
+  </update>
+</AppUpdater>
